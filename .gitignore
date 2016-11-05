@@ -1,0 +1,8 @@
+obj/
+Temp/
+*.sln
+*.csproj
+.vs/
+.idea/
+.gitignore
+Library/
